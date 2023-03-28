@@ -1,0 +1,4 @@
+**/*.DS_Store
+github_status_cli.egg-info/
+build/
+dist/
