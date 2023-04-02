@@ -1,4 +1,6 @@
 # GitHub Status CLI
+![Downloads](https://static.pepy.tech/badge/github-status-cli)
+
 A small command-line utility that returns current status and incident information from the GitHub API.
 
 Helpful to quickly check for service disruptions without switching apps when experiencing issues with git commands.
